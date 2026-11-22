@@ -12,4 +12,6 @@ SC-NC-CATALOGUE — repository foundation
 
 SC-NC Catalogue is being built as the catalogue of spiking neuron and synapse models split out of SC-NeuroCore: each model's descriptor, its equations and parameter profile, the factory that builds it, and the model profiles, reference traces and facet receipts that hold its behaviour to its source. It imports only SC-NC Core. Its current executable surface is repository validation tooling. It has no installed model catalogue, equation-profile checker, model factory or qualified record schema.
 
+SC-NC Catalogue is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 Read [Architecture](ARCHITECTURE.md), [validation tooling](validation-tooling.md), [data boundaries](THREAT_MODEL.md) and the [repository boundary decision](adr/0001-repository-boundary.md).
