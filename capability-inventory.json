@@ -1,0 +1,12 @@
+{
+  "capabilities": [],
+  "claims": [],
+  "evidence_maturity": "architecture_only",
+  "lifecycle": "local_scaffold",
+  "qualified_owned_schema_ids": [],
+  "repository_name": "SC-NC-CATALOGUE",
+  "source_metadata": {
+    "path": "repository-domain.json",
+    "sha256": "ba2f5222482ae1a2bdfe4558ecc020c6af90f029dcb2e20ab73a17eeef9728b4"
+  }
+}
